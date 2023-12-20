@@ -1,0 +1,12 @@
+.searchicon {
+    width: 400px;
+    height: 50px;
+    margin: auto;
+    margin-top: -49px;
+}
+
+@media screen and (max-width: 992px) {
+    .searchicon {
+        margin-top: 1rem;
+    }
+}
